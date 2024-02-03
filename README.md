@@ -22,7 +22,7 @@ O contexto da página, assim como seus respectivos elementos, mudam de acordo co
 
 A versão final do projeto pode ser acessada no link abaixo:
 
-[Projeto Fokus - Versão Final](https://catalogo-de-favoritos-six.vercel.app/)
+[Projeto Fokus - Versão Final](https://projeto-fokus-zeta-one.vercel.app/)
 
 ## :computer: Tecnologias Utilizadas:
 
