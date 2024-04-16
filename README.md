@@ -18,7 +18,9 @@ O contexto da página, assim como seus respectivos elementos, mudam de acordo co
 
 No primeiro curso foi desenvolvida a parte referente à estilização de cada contexto da página, adição de efeitos sonoros e ajustes no botão de play/pause.
 
-Já no segundo curso...
+Já no segundo curso foi aproveitada a aplicação criada na primeira parte para desenvolver novas funcionalidades para o projeto. Foi utilizado o conceito de Local Storage e como armazenar informações nele para guardar as tarefas fornecidas pelo usuário, por exemplo. Isto foi feito para criar e atualizar a lista de tarefas do usuário.
+
+Além disso, foram desenvolvidas diversas funcionalidades relacionadas as tarefas. A primeira delas foi selecionar a tarefa que está sendo realizada no momento, e, assim que o cronômetro do contexto Foco for zerado, marcar a tarefa como finaliazada. Também foi implementada uma forma de excluir da lista apenas as tarefas finalizadas, ou então remover todas de uma vez.
 
 ![Gif com uma demonstração do projeto, visualizando ambas as abas](./imagens/projetoFokus.gif)
 
